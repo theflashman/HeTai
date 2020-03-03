@@ -1,0 +1,29 @@
+实施影评小程序
+网易邮箱及密码：
+flash463611848@163.com
+cdc9795cdc
+
+app id：
+wxfa7b4a94551e00f1
+
+AppSecret：
+cdc9795cdc
+
+小程序环境名称和环境id：
+flash
+flash-7b960a
+
+request合法域名：api.bmobcloud.com 
+	            wss.bmobcloud.com(选填)
+
+socket合法域名：wss.bmobcloud.com(选填)
+
+uploadFile合法域名：api.bmobcloud.com
+
+云开发小程序：
+网易邮箱及密码：
+flash463611848@126.com
+cdc9795cdc
+
+app id：	wxecef131d74f9f05a
+app secret:  f0c30cc8db8e82f8619a5f78ffaf094e

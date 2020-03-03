@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents":{
+    "van-search": "/static/vant/search/index",
+    "van-cell": "/static/vant/cell/index"
+  }
+}

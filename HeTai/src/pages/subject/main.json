@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "课程",
+  "usingComponents":{
+    "van-search": "/static/vant/search/index",
+    "van-cell": "/static/vant/cell/index"
+  }
+}
